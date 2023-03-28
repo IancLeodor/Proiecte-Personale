@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0/KVm/Fehljs7Z6wZ2+Q9ocjn+vR57L6JbPMfuhYxDdgtgXK38mCV7HzhZs0GeMNKq8U2J7fyo4tQWEdj5EkIA==",
+  "dgSpecHash": "khpXOo+dDOv8p/Qe3kSQaU3D0CismhlwtSAK26rvIm4F5nQnTLdP2Iy3X2t1adEDNiG3FBZb8c/9oqqAoVrcrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leodo\\source\\repos\\lateral-internship-dotNET-2022\\WEEK3\\Linq\\LinqSamples\\Cars\\Cars.csproj",
+  "projectFilePath": "C:\\Users\\leodo\\Desktop\\Proiecte.Net.C#\\Exercitii.NET\\Linq\\Cars\\Cars.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leodo\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\leodo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
