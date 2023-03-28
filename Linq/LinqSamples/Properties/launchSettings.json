@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "Introduction": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\leodo\\source\\repos\\lateral-internship-dotNET-2022\\WEEK3\\Linq\\LinqSamples\\Features\\Program.cs"
+    }
+  }
+}

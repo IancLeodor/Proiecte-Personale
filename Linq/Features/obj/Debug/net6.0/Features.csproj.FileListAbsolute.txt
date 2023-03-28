@@ -1,0 +1,15 @@
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\bin\Debug\net6.0\Features.exe
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\bin\Debug\net6.0\Features.deps.json
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\bin\Debug\net6.0\Features.runtimeconfig.json
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\bin\Debug\net6.0\Features.dll
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\bin\Debug\net6.0\Features.pdb
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\obj\Debug\net6.0\Features.csproj.AssemblyReference.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\obj\Debug\net6.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\obj\Debug\net6.0\Features.AssemblyInfoInputs.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\obj\Debug\net6.0\Features.AssemblyInfo.cs
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\obj\Debug\net6.0\Features.csproj.CoreCompileInputs.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\obj\Debug\net6.0\Features.dll
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\obj\Debug\net6.0\refint\Features.dll
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\obj\Debug\net6.0\Features.pdb
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\obj\Debug\net6.0\Features.genruntimeconfig.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\Linq\LinqSamples\Features\obj\Debug\net6.0\ref\Features.dll
