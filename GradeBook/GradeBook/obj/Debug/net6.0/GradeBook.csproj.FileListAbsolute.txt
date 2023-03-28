@@ -1,0 +1,5 @@
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK1\GradeBook\GradeBook\obj\Debug\net6.0\GradeBook.csproj.AssemblyReference.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK1\GradeBook\GradeBook\obj\Debug\net6.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK1\GradeBook\GradeBook\obj\Debug\net6.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK1\GradeBook\GradeBook\obj\Debug\net6.0\GradeBook.AssemblyInfo.cs
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK1\GradeBook\GradeBook\obj\Debug\net6.0\GradeBook.csproj.CoreCompileInputs.cache
