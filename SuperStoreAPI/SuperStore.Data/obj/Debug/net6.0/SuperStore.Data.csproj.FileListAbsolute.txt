@@ -1,0 +1,14 @@
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\bin\Debug\net6.0\SuperStore.Data.deps.json
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\bin\Debug\net6.0\SuperStore.Data.runtimeconfig.json
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\bin\Debug\net6.0\SuperStore.Data.dll
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\bin\Debug\net6.0\SuperStore.Data.pdb
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\obj\Debug\net6.0\SuperStore.Data.csproj.AssemblyReference.cache
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\obj\Debug\net6.0\SuperStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\obj\Debug\net6.0\SuperStore.Data.AssemblyInfoInputs.cache
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\obj\Debug\net6.0\SuperStore.Data.AssemblyInfo.cs
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\obj\Debug\net6.0\SuperStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\obj\Debug\net6.0\SuperStore.Data.dll
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\obj\Debug\net6.0\refint\SuperStore.Data.dll
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\obj\Debug\net6.0\SuperStore.Data.pdb
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\obj\Debug\net6.0\SuperStore.Data.genruntimeconfig.cache
+C:\Users\leodo\Desktop\Proiect-Lateral\SuperStoreAPI\SuperStore.Data\obj\Debug\net6.0\ref\SuperStore.Data.dll

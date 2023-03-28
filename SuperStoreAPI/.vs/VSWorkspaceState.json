@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SuperStore.Data",
+    "\\SuperStore.Data\\bin",
+    "\\SuperStore.Data\\bin\\Debug",
+    "\\SuperStore.Data\\bin\\Debug\\net6.0",
+    "\\SuperStore.Data\\obj",
+    "\\SuperStore.Data\\obj\\Debug",
+    "\\SuperStore.Data\\obj\\Debug\\net6.0",
+    "\\SuperStore.Data\\obj\\Debug\\net6.0\\ref"
+  ],
+  "SelectedNode": "\\SuperStore.Data\\obj\\Debug\\net6.0\\SuperStore.Data.csproj.CoreCompileInputs.cache",
+  "PreviewInSolutionExplorer": false
+}
