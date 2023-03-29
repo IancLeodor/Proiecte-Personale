@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VCd9rMHgNdbDd8Z7legEUKEveD8M98dnmGkGQP+jlmCvKqDLmHvQhADi6Bz9NGZOyDXmF6VPZnQrtpTDZ9tcgw==",
+  "dgSpecHash": "7kIaX+pfrjtptXoK2cv75Dd5oIPas8/BNiOnJg4jLnIWpMEriW0prdSxW7puRYviYO+3dwr0UwqCHNR3adbOaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leodo\\source\\repos\\lateral-internship-dotNET-2022\\WEEK7\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj",
+  "projectFilePath": "C:\\Users\\leodo\\Desktop\\Proiecte.Net.C#\\Exercitii.NET\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leodo\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\leodo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
