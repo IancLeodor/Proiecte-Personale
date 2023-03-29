@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+SGyTA+Uyttu6aIDKmekUwXs6gZ/leDHra0ZLcW8jhhcpXDKJQmveFIu1qVetkYiZJHs1wgt8yPETYxVxsRRXg==",
+  "dgSpecHash": "0dqBbhIFWx5pmPFVdlVbgNkijFCNhYYbRdCUvtKHGxE6d5aTvH3qN+WfIwI79fUHo2uKEXdskfIjATB28WGpVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leodo\\source\\repos\\lateral-internship-dotNET-2022\\WEEK3\\ArdalisRating\\ArdalisRating.Tests\\ArdalisRating.Tests.csproj",
+  "projectFilePath": "C:\\Users\\leodo\\Desktop\\Proiecte.Net.C#\\Exercitii.NET\\ArdalisRating\\ArdalisRating.Tests\\ArdalisRating.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leodo\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\leodo\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
