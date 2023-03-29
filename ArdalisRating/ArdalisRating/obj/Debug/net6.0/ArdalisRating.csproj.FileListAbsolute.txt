@@ -1,0 +1,17 @@
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\ArdalisRating.csproj.AssemblyReference.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\ArdalisRating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\ArdalisRating.AssemblyInfoInputs.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\ArdalisRating.AssemblyInfo.cs
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\ArdalisRating.csproj.CoreCompileInputs.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\bin\Debug\net6.0\ArdalisRating.exe
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\bin\Debug\net6.0\ArdalisRating.deps.json
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\bin\Debug\net6.0\ArdalisRating.runtimeconfig.json
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\bin\Debug\net6.0\ArdalisRating.dll
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\bin\Debug\net6.0\ArdalisRating.pdb
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\ArdalisRating.csproj.CopyComplete
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\ArdalisRating.dll
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\refint\ArdalisRating.dll
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\ArdalisRating.pdb
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\ArdalisRating.genruntimeconfig.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK3\ArdalisRating\ArdalisRating\obj\Debug\net6.0\ref\ArdalisRating.dll

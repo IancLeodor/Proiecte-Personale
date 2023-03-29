@@ -1,0 +1,2 @@
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK5\SamuraiAPI\SamuraiApp.Test\obj\Debug\SamuraiApp.Test.csproj.AssemblyReference.cache
+C:\Users\leodo\source\repos\lateral-internship-dotNET-2022\WEEK5\SamuraiAPI\SamuraiApp.Test\obj\Debug\SamuraiApp.Test.csproj.CoreCompileInputs.cache
